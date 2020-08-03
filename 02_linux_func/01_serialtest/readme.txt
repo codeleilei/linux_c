@@ -16,4 +16,5 @@
 			
 			
 注意点：
-	这是一个android的扩展模块  这里使用android.mk 将其编译成可执行文件
+	ec20det是一个android的扩展模块  这里使用android.mk 将其编译成可执行文件
+	lib是一个参考例程 他包含了一些基本功能的api 
